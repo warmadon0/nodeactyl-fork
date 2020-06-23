@@ -1,0 +1,53 @@
+{
+  "_args": [
+    [
+      "nodeactyl-fork@1.0.0",
+      "C:\\Users\\warmadon\\Desktop\\website\\Test\\website"
+    ]
+  ],
+  "_from": "nodeactyl-fork@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-q5Ue4Km949xbNwQngCjRK8DMCekWXPxJ2kFIAokj9NStcAj/ySQRfS99NSB9Q5RFHFV7gVGXUwaAh1AwADaZyw==",
+  "_location": "/nodeactyl-fork",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "nodeactyl-fork@1.0.0",
+    "name": "nodeactyl-fork",
+    "escapedName": "nodeactyl-fork",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "",
+  "_spec": "1.0.0",
+  "_where": "C:\\Users\\warmadon\\Desktop\\website\\Test\\website",
+  "author": "Dalton Burchard",
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
+  "description": "NodeJS API For pterodactyl panel",
+  "homepage": "https://github.com/warmadon0/nodeactyl-fork#readme",
+  "keywords": [
+    "project"
+  ],
+  "license": "MIT",
+  "main": "Nodeactyl.js",
+  "name": "nodeactyl-fork",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warmadon0/nodeactyl-fork.git"
+  },
+  "bugs": {
+    "url": "https://github.com/warmadon0/nodeactyl-fork/issues"
+  }
+}
