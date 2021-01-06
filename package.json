@@ -28,7 +28,7 @@
   "_where": "C:\\Users\\warmadon\\Desktop\\website\\Test\\website",
   "author": "Dalton Burchard",
   "dependencies": {
-    "axios": "^0.19.0"
+    "axios": "^0.21.1"
   },
   "description": "NodeJS API For pterodactyl panel",
   "homepage": "https://github.com/warmadon0/nodeactyl-fork#readme",
